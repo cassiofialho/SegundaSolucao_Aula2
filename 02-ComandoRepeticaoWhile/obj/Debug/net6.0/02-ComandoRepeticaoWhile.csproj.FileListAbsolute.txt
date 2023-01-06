@@ -1,0 +1,15 @@
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\bin\Debug\net6.0\02-ComandoRepeticaoWhile.exe
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\bin\Debug\net6.0\02-ComandoRepeticaoWhile.deps.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\bin\Debug\net6.0\02-ComandoRepeticaoWhile.runtimeconfig.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\bin\Debug\net6.0\02-ComandoRepeticaoWhile.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\bin\Debug\net6.0\02-ComandoRepeticaoWhile.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.AssemblyInfo.cs
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\refint\02-ComandoRepeticaoWhile.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\02-ComandoRepeticaoWhile.genruntimeconfig.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\SegundaSolucao\02-ComandoRepeticaoWhile\obj\Debug\net6.0\ref\02-ComandoRepeticaoWhile.dll
